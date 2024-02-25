@@ -1,0 +1,4 @@
+Error found in this line: 12  17 BCEAEEDDCEAACDAADDBB
+Error found in this line: AA3850 BCEAEEDDCEAABEC BDCB
+Error found in this line: ERROR1 BCEAEEDDCEAADAACABAB
+Error found in this line: ERROR2 BCEAEEDDCEAAD DEAEEB
