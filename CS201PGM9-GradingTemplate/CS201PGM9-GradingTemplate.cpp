@@ -8,5 +8,12 @@ using namespace std;
 int main()
 {
     cout << "CREATE YOUR PROGRAM HERE!\n";
+    ofstream errFile, reportFile;
+    errFile.open("error.txt");
+    reportFile.open("report.txt");
+
+    vector<studentInfo*> studentData;
+    processStudentData(errFile, studentData);
+    printReport(reportFile, studentData);
 }
  
